@@ -1,8 +1,6 @@
 # minishell-42
 tp0ns/gsmets - 42 school - group project
 
-# /!\ WIP - This project is under construction
-
 # Description
 The existence of shells is linked to the very existence of IT.
 At the time, all coders agreed that communicating with a computer 
